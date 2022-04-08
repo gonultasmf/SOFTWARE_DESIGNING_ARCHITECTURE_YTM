@@ -1,0 +1,10 @@
+D:\SOFTWARE DESİGNİNG ARCHITECTURE (YTM)\Vizeye Hazırlık\Vize_Hazirlik_1\Vize_Hazirlik_1\bin\Debug\Vize_Hazirlik_1.exe.config
+D:\SOFTWARE DESİGNİNG ARCHITECTURE (YTM)\Vizeye Hazırlık\Vize_Hazirlik_1\Vize_Hazirlik_1\bin\Debug\Vize_Hazirlik_1.exe
+D:\SOFTWARE DESİGNİNG ARCHITECTURE (YTM)\Vizeye Hazırlık\Vize_Hazirlik_1\Vize_Hazirlik_1\bin\Debug\Vize_Hazirlik_1.pdb
+D:\SOFTWARE DESİGNİNG ARCHITECTURE (YTM)\Vizeye Hazırlık\Vize_Hazirlik_1\Vize_Hazirlik_1\obj\Debug\Vize_Hazirlik_1.csproj.AssemblyReference.cache
+D:\SOFTWARE DESİGNİNG ARCHITECTURE (YTM)\Vizeye Hazırlık\Vize_Hazirlik_1\Vize_Hazirlik_1\obj\Debug\Vize_Hazirlik_1.Form1.resources
+D:\SOFTWARE DESİGNİNG ARCHITECTURE (YTM)\Vizeye Hazırlık\Vize_Hazirlik_1\Vize_Hazirlik_1\obj\Debug\Vize_Hazirlik_1.Properties.Resources.resources
+D:\SOFTWARE DESİGNİNG ARCHITECTURE (YTM)\Vizeye Hazırlık\Vize_Hazirlik_1\Vize_Hazirlik_1\obj\Debug\Vize_Hazirlik_1.csproj.GenerateResource.cache
+D:\SOFTWARE DESİGNİNG ARCHITECTURE (YTM)\Vizeye Hazırlık\Vize_Hazirlik_1\Vize_Hazirlik_1\obj\Debug\Vize_Hazirlik_1.csproj.CoreCompileInputs.cache
+D:\SOFTWARE DESİGNİNG ARCHITECTURE (YTM)\Vizeye Hazırlık\Vize_Hazirlik_1\Vize_Hazirlik_1\obj\Debug\Vize_Hazirlik_1.exe
+D:\SOFTWARE DESİGNİNG ARCHITECTURE (YTM)\Vizeye Hazırlık\Vize_Hazirlik_1\Vize_Hazirlik_1\obj\Debug\Vize_Hazirlik_1.pdb
