@@ -1,0 +1,16 @@
+C:\Users\FMG\source\repos\bridge_alistirma\bridge_alistirma\bin\Debug\net5.0\bridge_alistirma.exe
+C:\Users\FMG\source\repos\bridge_alistirma\bridge_alistirma\bin\Debug\net5.0\bridge_alistirma.deps.json
+C:\Users\FMG\source\repos\bridge_alistirma\bridge_alistirma\bin\Debug\net5.0\bridge_alistirma.runtimeconfig.json
+C:\Users\FMG\source\repos\bridge_alistirma\bridge_alistirma\bin\Debug\net5.0\bridge_alistirma.runtimeconfig.dev.json
+C:\Users\FMG\source\repos\bridge_alistirma\bridge_alistirma\bin\Debug\net5.0\bridge_alistirma.dll
+C:\Users\FMG\source\repos\bridge_alistirma\bridge_alistirma\bin\Debug\net5.0\ref\bridge_alistirma.dll
+C:\Users\FMG\source\repos\bridge_alistirma\bridge_alistirma\bin\Debug\net5.0\bridge_alistirma.pdb
+C:\Users\FMG\source\repos\bridge_alistirma\bridge_alistirma\obj\Debug\net5.0\bridge_alistirma.csproj.AssemblyReference.cache
+C:\Users\FMG\source\repos\bridge_alistirma\bridge_alistirma\obj\Debug\net5.0\bridge_alistirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMG\source\repos\bridge_alistirma\bridge_alistirma\obj\Debug\net5.0\bridge_alistirma.AssemblyInfoInputs.cache
+C:\Users\FMG\source\repos\bridge_alistirma\bridge_alistirma\obj\Debug\net5.0\bridge_alistirma.AssemblyInfo.cs
+C:\Users\FMG\source\repos\bridge_alistirma\bridge_alistirma\obj\Debug\net5.0\bridge_alistirma.csproj.CoreCompileInputs.cache
+C:\Users\FMG\source\repos\bridge_alistirma\bridge_alistirma\obj\Debug\net5.0\bridge_alistirma.dll
+C:\Users\FMG\source\repos\bridge_alistirma\bridge_alistirma\obj\Debug\net5.0\ref\bridge_alistirma.dll
+C:\Users\FMG\source\repos\bridge_alistirma\bridge_alistirma\obj\Debug\net5.0\bridge_alistirma.pdb
+C:\Users\FMG\source\repos\bridge_alistirma\bridge_alistirma\obj\Debug\net5.0\bridge_alistirma.genruntimeconfig.cache

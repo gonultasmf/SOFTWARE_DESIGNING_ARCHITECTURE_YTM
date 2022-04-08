@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "bridge_alistirma/1.0.0": {
+        "runtime": {
+          "bridge_alistirma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bridge_alistirma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
