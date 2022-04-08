@@ -1,0 +1,7 @@
+/**
+ * IMessage
+ */
+public interface IMessage {
+
+    
+}
